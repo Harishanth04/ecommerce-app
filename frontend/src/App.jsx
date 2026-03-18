@@ -8,7 +8,7 @@ import Order from "./pages/Order";
 import Home from "./pages/Home";
 import Navbar from "./components/Navbar";
 import About from "./pages/About";
-import Collection from "./pages/collection";
+import Collection from "./pages/Collection";
 import Footer from "./components/Footer";
 
 const App = () => {
